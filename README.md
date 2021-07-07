@@ -5,7 +5,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 [![image](https://i.hizliresim.com/d74onm0.PNG)](https://github.com/FurkanBulut00/kodluyoruzilkrepo)
 
 ## Installation
----
+
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
